@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1468254168 source:c:\hndit\c++\jhygg\main.cpp
+	<iostream>
+	<fstream>
+

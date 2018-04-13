@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1464363236 source:c:\hndit\c++\mn\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1446667744 c:\hndit\c++\mn\resource.h
+
+1464363149 source:c:\hndit\c++\mn\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1464363149 source:c:\hndit\c++\another window app\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1446667744 c:\hndit\c++\another window app\resource.h
+
+1464363236 source:c:\hndit\c++\another window app\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

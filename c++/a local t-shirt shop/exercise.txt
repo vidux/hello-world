@@ -1,0 +1,28 @@
+a local t-shirt shop sells t-shirts for rs 1200/- of each.
+quantity discount as given as below.
+
+[quantity] 		[discount]
+5-10 	---------- 	10%
+11-20	----------	15%
+21-30	----------	20%
+31 or more	------	25%
+
+write a program that ask from user for the number of t-shirts and
+then compute the  total price. make sure the the program not accept
+negetive numbers.
+
+
+
+-----------------------------------
+mata therena widuyata sinhalen
+shop ekaka wikunanawalu t-shirt ekak 1200 ganne. ganna pramaana
+anuwa wenas wenas wu discount denawalu.
+[gannapramaanaya] 		[discount]
+5-10 	---------- 	10%
+11-20	----------	15%
+21-30	----------	20%
+31 or more	------	25%
+
+program ekak  liyanna ,  ganna pramaanaya user gen ahala e ganna pramaanayta adaala discout eka
+mulu ganen adu kalara ena mulu pramaanaya penwana ekak. habai e program eka rina ganan dammata wada karanna ba.ekata msg
+ekak pennanana ona
